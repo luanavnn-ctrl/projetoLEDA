@@ -18,4 +18,4 @@ Após os estudos de análise de algoritmos de ordenação vistos em sala de aula
 
 6. Realize a execução do arquivo "app/main.java" o mesmo irá gerar arquivos conforme os diretorios e informações no item a seguir.
 
-7. O código deve gerar na pasta "db\casos" vários arquivos CSV para melhor, pior e médio caso e em "db\ordenados" teremos os arquivos ordenados pelos algoritmos de ordenação. Cada arquivo trata-se de uma execução de um dos seis algotimos de ordenação (BubbleSort, MargeSort, HeapSort, QuickSort, InsertionSort, SelectionSort) para cada um dos 4 parâmetros (tamanho, data e mês).
+7. O código deve gerar na pasta "db/casos" vários arquivos CSV para melhor, pior e médio caso e em "db\ordenados" teremos os arquivos ordenados pelos algoritmos de ordenação. Cada arquivo trata-se de uma execução de um dos seis algotimos de ordenação (BubbleSort, MargeSort, HeapSort, QuickSort, InsertionSort, SelectionSort) para cada um dos 4 parâmetros (tamanho, data e mês).
