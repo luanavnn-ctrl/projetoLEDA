@@ -10,12 +10,14 @@ Após os estudos de análise de algoritmos de ordenação vistos em sala de aula
 
 2. A ide utilizada foi o VSCode, mas poderá ser escolhida a que o programador tenha melhor afinidade, contanto que seja adequada para compilação programas em JAVA.
 
-3. Na pasta "db" perceba que existe um arquivo chamado "passwords.csv". Este arquivo é o CSV do banco de dados fornecido pelo professor, e  pode utiliza-lo seguindo o seguinte diretório  "db\passwords.csv" do projeto.
+3. Salvar arquivo [passwords.csv](https://docs.google.com/document/d/12F8pTblzYzY5a7Xt21ZtICBKxmBmt156QIr4bwoFNXg/edit?usp=sharing) no diretório "proj-leda\proj-leda\db", para o correto funcionamento da implementação
 
-4. No diretório "db/outroscasos" é onde ficará os arquivos gerados pela formatação da data e classificação das senhas: passwords_formated_data.csv e passwords_classifier.csv, respectivamente.
+4. Na pasta "db" perceba que existe um arquivo chamado "passwords.csv". Este arquivo é o CSV do banco de dados fornecido pelo professor, e  pode utiliza-lo seguindo o seguinte diretório  "db\passwords.csv" do projeto.
 
-5. Só será possível rodar o projeto utilizando uma IDE. Para isso, roda através da IDE o arquivo "Main.java".
+5. No diretório "db/outroscasos" é onde ficará os arquivos gerados pela formatação da data e classificação das senhas: passwords_formated_data.csv e passwords_classifier.csv, respectivamente.
 
-6. Realize a execução do arquivo "app/main.java" o mesmo irá gerar arquivos conforme os diretorios e informações no item a seguir.
+6. Só será possível rodar o projeto utilizando uma IDE. Para isso, roda através da IDE o arquivo "Main.java".
 
-7. O código deve gerar na pasta "db/casos" vários arquivos CSV para melhor, pior e médio caso e em "db\ordenados" teremos os arquivos ordenados pelos algoritmos de ordenação. Cada arquivo trata-se de uma execução de um dos seis algotimos de ordenação (BubbleSort, MargeSort, HeapSort, QuickSort, InsertionSort, SelectionSort) para cada um dos 4 parâmetros (tamanho, data e mês).
+7. Realize a execução do arquivo "app/main.java" o mesmo irá gerar arquivos conforme os diretorios e informações no item a seguir.
+
+8. O código deve gerar na pasta "db/casos" vários arquivos CSV para melhor, pior e médio caso e em "db\ordenados" teremos os arquivos ordenados pelos algoritmos de ordenação. Cada arquivo trata-se de uma execução de um dos seis algotimos de ordenação (BubbleSort, MargeSort, HeapSort, QuickSort, InsertionSort, SelectionSort) para cada um dos 4 parâmetros (tamanho, data e mês).
