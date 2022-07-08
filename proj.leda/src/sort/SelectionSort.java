@@ -6,32 +6,37 @@ import java.util.Locale;
 import data.Password;
 import util.Array;
 
-public class BubbleSort implements Sort {
-	
+public class SelectionSort implements Sort {
+
 	@Override
 	public void sortInteger(Array<Password> A, String method) throws Exception {
 		for (int i = 0; i < A.size(); i++) {
-			for (int j = A.size() - 1; j > 0; j--) {			
+			int min = i;
+			for (int j = i + 1; j < A.size(); j++) {
 				Integer data1 = (Integer) A.get(j).getClass().getMethod(method).invoke(A.get(j));    	
-				Integer data2 = (Integer) A.get(j - 1).getClass().getMethod(method).invoke(A.get(j - 1));				
+				Integer data2 = (Integer) A.get(min).getClass().getMethod(method).invoke(A.get(min));
 				if (data1.compareTo(data2) < 0) {
-					A.swap(j, j - 1);
+					min = j;
 				}
 			}
+			A.swap(i, min);
 		}
 	}
-	
+
 	@Override
 	public void sortString(Array<Password> A, String method) throws Exception {
 		Collator collator = Collator.getInstance(new Locale ("pt", "BR"));
 		for (int i = 0; i < A.size(); i++) {
-			for (int j = A.size() - 1; j > 0; j--) {			
+			int min = i;
+			for (int j = i + 1; j < A.size(); j++) {
 				String data1 = (String) A.get(j).getClass().getMethod(method).invoke(A.get(j));    	
-		    	String data2 = (String) A.get(j - 1).getClass().getMethod(method).invoke(A.get(j - 1));
-		    	if (collator.compare(data1, data2) < 0) {
-					A.swap(j, j - 1);
+				String data2 = (String) A.get(min).getClass().getMethod(method).invoke(A.get(min));
+				if (collator.compare(data1, data2) < 0) {
+					min = j;
 				}
 			}
+			A.swap(i, min);
 		}
 	}
+
 }
