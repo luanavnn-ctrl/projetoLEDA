@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0bc1e61-082b-4187-9d6f-4599ffd760ed" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BEPIVuV4gzvGvow50jLFSM6bLt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Tiago Medeiros/Desktop/proj-leda",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.spelling"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.Main" />
+      <module name="proj-leda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="4" Folder0="C:\Users\Tiago Medeiros\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder1="C:\Users\Tiago Medeiros\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder2="C:\Users\Tiago Medeiros\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder3="C:\Users\Tiago Medeiros\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master" CustomDictionaries="4" CustomDictionary0="C:\Users\Tiago Medeiros\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil.dic" CustomDictionary1="C:\Users\Tiago Medeiros\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms.dic" CustomDictionary2="C:\Users\Tiago Medeiros\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms_without-accents.dic" CustomDictionary3="C:\Users\Tiago Medeiros\Downloads\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_without-accents.dic" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0bc1e61-082b-4187-9d6f-4599ffd760ed" name="Changes" comment="" />
+      <created>1656468191709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656468191709</updated>
+      <workItem from="1656468193435" duration="632000" />
+      <workItem from="1656681844269" duration="14748000" />
+      <workItem from="1656696892976" duration="1750000" />
+      <workItem from="1656874932647" duration="21239000" />
+      <workItem from="1656969648998" duration="119000" />
+      <workItem from="1657017387582" duration="97000" />
+      <workItem from="1657108292312" duration="1587000" />
+      <workItem from="1657212761377" duration="598000" />
+      <workItem from="1657216623586" duration="255000" />
+      <workItem from="1657222696328" duration="1110000" />
+      <workItem from="1657283142409" duration="570000" />
+      <workItem from="1657317093128" duration="6419000" />
+      <workItem from="1657324152845" duration="2122000" />
+      <workItem from="1657380462074" duration="16159000" />
+      <workItem from="1657408958935" duration="26685000" />
+      <workItem from="1657496520459" duration="81000" />
+      <workItem from="1657498068261" duration="871000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/app/Main.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/app/Main.java</url>
+          <line>227</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/app/Main.java</url>
+          <line>391</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/app/Main.java</url>
+          <line>562</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
